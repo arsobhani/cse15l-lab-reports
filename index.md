@@ -28,3 +28,7 @@ cant pass through this
 
 
 `backtick is near the upper left of the keyboard`
+
+```
+Use 3 backticks top and bottom for a block. Above is inline code, btw
+```
