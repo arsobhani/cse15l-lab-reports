@@ -35,3 +35,5 @@ Use 3 backticks top and bottom for a block. Above is inline code, btw
 *Bold* 
 
 **Just kidding its italicized**
+
+[Lab Report 1](lab-report-1-week-2.html)
