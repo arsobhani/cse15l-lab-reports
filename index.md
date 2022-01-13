@@ -32,3 +32,6 @@ cant pass through this
 ```
 Use 3 backticks top and bottom for a block. Above is inline code, btw
 ```
+*Bold* 
+
+**Just kidding its italicized**
