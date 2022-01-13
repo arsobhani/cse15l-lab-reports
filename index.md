@@ -7,4 +7,4 @@ Lets try some stuff
 *You can italicize stuff with asterisks*
 
 This is for a link
-[Link]https://docs.google.com/document/d/1xUZ61lATlLJgh8sYq6dRILIsnolFmIRXXGGbk9wptb8/edit
+[Lab 2 Doc](https://docs.google.com/document/d/1xUZ61lATlLJgh8sYq6dRILIsnolFmIRXXGGbk9wptb8/edit)
