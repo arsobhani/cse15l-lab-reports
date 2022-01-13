@@ -15,9 +15,9 @@ Now...?
 >This is blockformatting
 It can continue on it seems
 
-*this
-*is
-*a list
+* this
+* is
+* a list
 
 1. numbered list
 2. doesnt look much different
