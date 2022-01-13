@@ -23,5 +23,7 @@ It can continue on it seems
 2. doesnt look much different
 3. ok
 
+cant pass through this
+-----------------------
 
 
