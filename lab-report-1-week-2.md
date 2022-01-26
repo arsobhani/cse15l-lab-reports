@@ -104,7 +104,7 @@ The key's randomart image is:
 ```
 
 If on windows, follow the extra steps here:
-https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation
+[Link to extra steps](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
 
 In doing this, two files have been created:
 one for the private key (in a file `id_rsa`) and one for the public key (in a file `id_rsa.pub`), stored in the `.ssh` directory on your computer.
