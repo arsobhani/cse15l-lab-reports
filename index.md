@@ -40,6 +40,8 @@ Use 3 backticks top and bottom for a block. Above is inline code, btw
 
 [Lab Report 2](lab-report-2-week-4.html)
 
+[Lab Report 3](lab-report-3-week-6.html)
+
 
 
 ![Screenshot](img.png)
