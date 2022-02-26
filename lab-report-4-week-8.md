@@ -41,7 +41,8 @@ and has some line breaks](
 
 [this title text is really long and takes up more than 
 one line](
-    https://ucsd-cse15l-w22.github.io/
+    https://ucsd-cse15l-w22.github
+    io/
 )
 
 
@@ -61,4 +62,27 @@ And then there's more text
 
 ---
 
+This is how I ran the tests:
 
+![how](howthetests.png)
+
+For my implementation, none of the tests passed. Here are the results:
+![mytests](mytests.png)
+
+For their implementation, none of the tests passed. Here are the results:
+![theirtests](shittytests.png)
+
+
+
+**Answers to Questions**
+
+**Snippet 1**
+
+For snippet 1, with the backticks, I believe a solution can be reached by checking if an unpaired backtick occurs right before the open bracket. It seems that if there are multiple lines between the unpaired backtick and the open bracket, the unpaired backtick loses its value, so just check if it occurs right before the open bracket. Also, check if there is an unpaired backtick in the brackets, as that messes it up too. 
+
+**Snippet 2**
+
+This one seems very complicated. There are many possibilities here for where the open bracket and parenthesis and repeated brackets and parenthesis could appear. Perhaps the way you could go about it would be to make sure every parenthesis and bracket are paired before checking for the outermost ones. If there are nested links, it seems that it should not process the outer link and only the inner. There are probably more possibilites than the one listed in the snippet.
+
+**Snippet 3**
+I believe a 10 line or less solution could be reached with this one as it is just a check for more than 1 newline in the brackets or parenthesis (I'm not exactly sure how many newlines are permitted, or if even just one newline is considered a newline through vscode). To code for this check shouldn't bee too complicated, I think.
