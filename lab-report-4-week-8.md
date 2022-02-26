@@ -4,7 +4,9 @@ Here is the link to my group's repository - [mine](https://github.com/arsobhani/
 
 Here is the link to the reviewed repository - [theirs](https://github.com/JessalynWang/markdown-parse).
 
-For snippet 1, it should look like this:
+For snippet 1, 
+![snippet1](snippet1.png)
+it should look like this:
 
 `[a link`](url.com)
 
@@ -18,7 +20,9 @@ For snippet 1, it should look like this:
 
 ---
 
-For snippet 2, it should look like this:
+For snippet 2, 
+![snippet2](snippet2.png)
+it should look like this:
 
 [a [nested link](a.com)](b.com)
 
@@ -30,7 +34,9 @@ For snippet 2, it should look like this:
 
 ---
 
-For snippet 3, it should look like this:
+For snippet 3, 
+![snippet3](snippet3.png)
+it should look like this:
 
 [this title text is really long and takes up more than 
 one line
