@@ -56,3 +56,5 @@ Since the test does NOT evaluate to a valid link:
 The error lies in my implementation.
 
 The error here is that my code registers what is within the open and closed parenthesis as a link, though with *Markdown* it is NOT considered a link. In Joe's code, there is a check to see if there is a `\n` character in the parenthesis, which is a newline input. If it exists, the link is not added, which is correct. However, my code does not have that check, and since this test had a newline within the parenthesis, my code returned it as if it were a valid link.
+
+![lab5correction](lab5correction.png)
